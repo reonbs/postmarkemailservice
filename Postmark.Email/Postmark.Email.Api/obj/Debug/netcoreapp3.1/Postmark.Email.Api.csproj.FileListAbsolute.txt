@@ -1,0 +1,106 @@
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.csprojAssemblyReference.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.AssemblyInfoInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.AssemblyInfo.cs
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\staticwebassets\Postmark.Email.Api.StaticWebAssets.Manifest.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\staticwebassets\Postmark.Email.Api.StaticWebAssets.xml
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.exe
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.deps.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.runtimeconfig.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.runtimeconfig.dev.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Model.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Service.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Service.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Model.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.csproj.CopyComplete
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.genruntimeconfig.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.exe
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.deps.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.runtimeconfig.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.runtimeconfig.dev.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Api.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Model.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Service.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Service.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\bin\Debug\netcoreapp3.1\Postmark.Email.Model.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.csprojAssemblyReference.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.AssemblyInfoInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.AssemblyInfo.cs
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.csproj.CopyComplete
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\staticwebassets\Postmark.Email.Api.StaticWebAssets.Manifest.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\staticwebassets\Postmark.Email.Api.StaticWebAssets.xml
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Api\obj\Debug\netcoreapp3.1\Postmark.Email.Api.genruntimeconfig.cache

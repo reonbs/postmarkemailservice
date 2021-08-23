@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Service\\Postmark.Email.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\Postmark.Email.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\Postmark.Email.Model.csproj",
+        "projectName": "Postmark.Email.Model",
+        "projectPath": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\Postmark.Email.Model.csproj",
+        "packagesPath": "C:\\Users\\Ekene Egonu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ekene Egonu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Service\\Postmark.Email.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Service\\Postmark.Email.Service.csproj",
+        "projectName": "Postmark.Email.Service",
+        "projectPath": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Service\\Postmark.Email.Service.csproj",
+        "packagesPath": "C:\\Users\\Ekene Egonu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ekene Egonu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\Postmark.Email.Model.csproj": {
+                "projectPath": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\Postmark.Email.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

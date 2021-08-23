@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVpMZCA7Le13/E1ilPYAFCWAkhht/Z0NLWxza4T4rL/WNMV9jWkH38E6LhAsRmQlJzG1FQGhyXWgFUCY93AZiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ekene Egonu\\Documents\\reoproj\\postmarkemailservice\\Postmark.Email\\Postmark.Email.Model\\Postmark.Email.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ekene Egonu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ekene Egonu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ekene Egonu\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

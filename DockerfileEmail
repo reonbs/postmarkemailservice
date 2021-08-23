@@ -1,0 +1,23 @@
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
+WORKDIR /src
+
+COPY Postmark.Email.sln .
+COPY Postmark.Email/Postmark.Email.Api/Postmark.Email.Api.csproj Postmark.Email/Postmark.Email.Api/
+COPY Postmark.Email/Postmark.Email.Service/Postmark.Email.Service.csproj Postmark.Email/Postmark.Email.Service/
+COPY Postmark.Email/Postmark.Email.Model/Postmark.Email.Model.csproj Postmark.Email/Postmark.Email.Model/
+
+RUN dotnet restore
+COPY . .
+
+# publish
+FROM build AS publish
+WORKDIR /src/Postmark.Email/Postmark.Email.Api
+RUN dotnet publish -c Release -o /src/publish
+
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS runtime
+WORKDIR /app
+COPY --from=publish /src/publish .
+
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet Postmark.Email.Api.dll

@@ -1,0 +1,16 @@
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\bin\Debug\netstandard2.0\Postmark.Email.Model.deps.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\bin\Debug\netstandard2.0\Postmark.Email.Model.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\bin\Debug\netstandard2.0\Postmark.Email.Model.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.AssemblyInfoInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.AssemblyInfo.cs
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\bin\Debug\netstandard2.0\Postmark.Email.Model.deps.json
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\bin\Debug\netstandard2.0\Postmark.Email.Model.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\bin\Debug\netstandard2.0\Postmark.Email.Model.pdb
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.AssemblyInfoInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.AssemblyInfo.cs
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.dll
+C:\Users\Ekene Egonu\Documents\reoproj\postmarkemailservice - Copy\letsee\Postmark.Email\Postmark.Email.Model\obj\Debug\netstandard2.0\Postmark.Email.Model.pdb

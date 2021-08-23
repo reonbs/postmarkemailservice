@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postmark.Routing.Console", "Postmark.Routing\Postmark.Routing.Console\Postmark.Routing.Console.csproj", "{4252B9CC-17DE-4AF9-96F4-A78263A83EB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postmark.Routing.Service", "Postmark.Routing\Postmark.Routing.Service\Postmark.Routing.Service.csproj", "{E2DDBED2-CBCA-4C4E-B477-6E39FD24A546}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postmark.Email.Model", "Postmark.Email\Postmark.Email.Model\Postmark.Email.Model.csproj", "{64248357-8859-4BC9-B166-469B46E5A480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4252B9CC-17DE-4AF9-96F4-A78263A83EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4252B9CC-17DE-4AF9-96F4-A78263A83EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4252B9CC-17DE-4AF9-96F4-A78263A83EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4252B9CC-17DE-4AF9-96F4-A78263A83EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DDBED2-CBCA-4C4E-B477-6E39FD24A546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DDBED2-CBCA-4C4E-B477-6E39FD24A546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DDBED2-CBCA-4C4E-B477-6E39FD24A546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DDBED2-CBCA-4C4E-B477-6E39FD24A546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64248357-8859-4BC9-B166-469B46E5A480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64248357-8859-4BC9-B166-469B46E5A480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64248357-8859-4BC9-B166-469B46E5A480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64248357-8859-4BC9-B166-469B46E5A480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D4D860E-EA95-4F90-92E5-197A2C4406C7}
+	EndGlobalSection
+EndGlobal
